@@ -260,7 +260,7 @@
     display: none;
     }
   </style>
-<title>Alterar Avaliação</title>
+<title>Alterar avaliações</title>
 </head>
 
   <body>
